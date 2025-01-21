@@ -1,5 +1,23 @@
 ## 🖥️ 알고리즘 스터디
 
+### 스터디 구성
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/36499249?v=4" width="100" height="100" alt="임재성"/><br>
+      <a href="https://github.com/JS512"><b>임재성</b></a>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/102946491?v=4" width="100" height="100" alt="유호선"/><br>
+      <a href="https://github.com/hsyoodev"><b>유호선</b></a>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/121100925?v=4" width="100" height="100" alt="정원석"/><br>
+      <a href="https://github.com/Jung-won-seok"><b>정원석</b></a>
+    </td>
+  </tr>
+</table>
+
 ### 스터디 목적
 코딩테스트 대비, 알고리즘 실력 향상
 
